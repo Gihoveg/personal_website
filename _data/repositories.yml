@@ -1,9 +1,9 @@
 github_users:
-  - adavoden
+  - gihoveg
 
 repo_description_lines_max: 2
 
 github_repos:
-  - AdaVoden/Shutterbug
-  - AdaVoden/Lumina
-  - AdaVoden/cmt_dashboard
+  - gihoveg/Shutterbug
+  - gihoveg/Lumina
+  - gihoveg/cmt_dashboard
